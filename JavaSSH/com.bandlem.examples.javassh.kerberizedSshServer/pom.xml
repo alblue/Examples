@@ -9,6 +9,21 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	<packaging>jar</packaging>
 	<name>server</name>
 	<url>http://github.com/alblue/Examples</url>
+	<inceptionYear>2011</inceptionYear>
+	<licenses>
+		<license>
+			<name>Apache 2</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<organization>
+		<name>Bandlem Limited</name>
+		<url>http://www.bandlem.com</url>
+	</organization>
+	<scm>
+		<connection>scm:git:http://github.com/alblue/Examples.git</connection>
+	</scm>
 	<properties>
 		<project.build.sourceEncoding>
 		UTF-8</project.build.sourceEncoding>
